@@ -5,7 +5,7 @@
  <img src="https://github.com/CptZeru/CptZeru/blob/master/assets/salute-mgs.webp" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
 </div>
 <div align="center">
- <img src="https://lanyard.kyrie25.me/api/336131370373873664?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4">
+ <img src="https://lanyard.kyrie25.dev/api/336131370373873664?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4">
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=CptZeru&color=blue&style=flat" alt="CptZeru">
@@ -14,9 +14,7 @@
 # 🧑‍💻 About Me
 - 3+ Years of Experience as a Software Engineer
 - Have worked with diversed International Teams
-- Based in Indonesia
-- Currently studying Computer Science Bachelor Degree
-- Diploma Degree in Computer Science
+- Diploma and Bachelor Degree in Computer Science
 
 # 🛠️ Tech Stack
 - Language, Runtime, Framework:
